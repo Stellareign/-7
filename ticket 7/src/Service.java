@@ -1,6 +1,6 @@
 import java.util.Objects;
 public class Service {
-
+    // возведение в степень
     public static double quadrat(double x) {
         int j = 2;
         double quadratNumber = x;
